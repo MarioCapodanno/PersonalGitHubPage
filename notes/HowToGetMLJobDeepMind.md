@@ -1,6 +1,7 @@
+### Sources
 Source: https://gordicaleksa.medium.com/how-i-got-a-job-at-deepmind-as-a-research-engineer-without-a-machine-learning-degree-1a45f2a781de
 
-### Disclaimer from the author
+## Disclaimer from the author
 
 > Note from Aleksa from the future (November 2025): joining a prestigious company is less important than joining a great, tightly knit, ambitious team... If I were you, on the job market right now, I’d look at the smaller companies, the next DeepMinds of the world.
 
