@@ -1,5 +1,5 @@
-### Sources
-Source: https://gordicaleksa.medium.com/how-i-got-a-job-at-deepmind-as-a-research-engineer-without-a-machine-learning-degree-1a45f2a781de
+### Source
+[Original Blog Article](https://gordicaleksa.medium.com/how-i-got-a-job-at-deepmind-as-a-research-engineer-without-a-machine-learning-degree-1a45f2a781de).
 
 ## Disclaimer from the author
 
@@ -51,7 +51,7 @@ All of this to build the knowledge to have a *chance/opportunity* to land the jo
 
 Got a referral, networking through a conference, and (I assume) with people with the same nationality as yours.
 
-This section is best to read directly from the blog article, but useful links:
+This section is best to read directly from the blog article (you can do it from [here](https://gordicaleksa.medium.com/how-i-got-a-job-at-deepmind-as-a-research-engineer-without-a-machine-learning-degree-1a45f2a781de#b581), but useful links:
 - [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) (the behavioural part). Tips:
   - First, try to solve a problem yourself. Only if you’re stuck, take a look at the first hint, and so on.
   - Always write down the memory and time complexity of your solution before looking at the solution.
