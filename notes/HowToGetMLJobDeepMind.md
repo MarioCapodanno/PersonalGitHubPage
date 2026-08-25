@@ -1,6 +1,4 @@
----
-Link: https://gordicaleksa.medium.com/how-i-got-a-job-at-deepmind-as-a-research-engineer-without-a-machine-learning-degree-1a45f2a781de
----
+Source: https://gordicaleksa.medium.com/how-i-got-a-job-at-deepmind-as-a-research-engineer-without-a-machine-learning-degree-1a45f2a781de
 
 ### Disclaimer from the author
 
@@ -40,10 +38,10 @@ Very short summary:
 
 Other than this, read:
 
-- [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook), chapter 5 — helped me get a visceral feeling for SVMs, PCA, linear regression, etc.
-- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/), skipped first 11 chapters — I felt like going through at least one book on Python since I learned the language on the fly. It also shaped my mindset which improved my productivity in general (in a nutshell: “automate the repetitive stuff”).
-- [Deep Learning](https://www.deeplearningbook.org/) — I only read the first part as I realized I don’t really need all of that theory. It should be treated as a reference manual.
-- [The Book of Why](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X) — I read it because I was genuinely interested in causality and Judea Pearl’s work! Here is my [LinkedIn summary](https://www.linkedin.com/posts/aleksagordic_pearl-causality-intelligence-activity-6807985607432785920-Zxn2).
+- [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook), chapter 5 — "helped me get a visceral feeling for SVMs, PCA, linear regression, etc."
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/), skipped first 11 chapters — "I felt like going through at least one book on Python since I learned the language on the fly. It also shaped my mindset which improved my productivity in general (in a nutshell: “automate the repetitive stuff”)."
+- [Deep Learning](https://www.deeplearningbook.org/) — "I only read the first part as I realized I don’t really need all of that theory. It should be treated as a reference manual."
+- [The Book of Why](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X) — "I read it because I was genuinely interested in causality and Judea Pearl’s work! Here is my [LinkedIn summary](https://www.linkedin.com/posts/aleksagordic_pearl-causality-intelligence-activity-6807985607432785920-Zxn2)."
 
 
 All of this to build the knowledge to have a *chance/opportunity* to land the job.
